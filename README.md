@@ -1,13 +1,24 @@
 # BMW Sales Analysis Dashboard (Power BI)
+Interactive Power BI dashboard analyzing BMW sales data from 2010–2024.
 
 ## Overview
 This project analyzes BMW sales data from 2010–2024 using Power BI.
 
-The dashboard provides insights into:
-- Sales by Region
-- Transmission performance
-- Model trends
-- Fuel type analysis
+## Key Insights
+
+- Automatic transmission vehicles generated the highest sales.
+- The United States contributed the largest revenue share.
+- BMW X5 and BMW 3 Series are top performing models.
+- Sales increased significantly after 2018.
+
+---
+
+## Dashboard Features
+
+- Regional sales analysis
+- Transmission type performance
+- Model-wise sales trends
+- Fuel type distribution
 
 ---
 
@@ -21,8 +32,15 @@ The dashboard provides insights into:
 
 ## Tools Used
 - Power BI
-- Data Modeling
+- Microsoft Excel
+- Power Query
 - DAX
+
+## Skills Demonstrated
+- Data Cleaning & Transformation
+- Data Modeling
+- Interactive Dashboard Design
+- Business Insight Generation
 - Data Visualization
 
 ---
@@ -34,11 +52,11 @@ BMW Sales Data (2010–2024)
 
 ## Dashboard Preview
 
-![Sales Overview](Sales Overview.png)
+![Sales Overview](sales-overview.png)
 
-![Transmission Analysis](Transmission Analysis.png)
+![Transmission Analysis](transmission-analysis.png)
 
-![Region Performance](Region Performance.png)
+![Region Performance](region-performance.png)
 
 ---
 
